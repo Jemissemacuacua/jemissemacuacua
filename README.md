@@ -15,7 +15,8 @@
 
 ## My Github Status 
 
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemissemacuacua&layout=compact&&langs_count=8"/>
+<img alt="Top langs" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jemissemacuacua&layout=compact&langs_count=8](https://github-stats-extended.vercel.app/api/top-langs/?username=jemissemacuacua&layout=compact&langs_count=8"/>
+
 
   
 
