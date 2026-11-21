@@ -5,19 +5,7 @@
  -  Construindo MONETA, um NeoBanco.
  -  Tech Lover, i code more then i sleep. lol
 
-
 <p align="left">
     
-
-
-<br/>  
- 
-
-
-
-    
-   
-
-<br/>
 <br/>
 
